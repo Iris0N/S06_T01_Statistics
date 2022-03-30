@@ -1,0 +1,42 @@
+ 6. Sprint 6. Dades, Probabilitats i Estadístiques
+
+Durada : 7 dies 
+
+Objectiu general: 
+
+    Profunditzar en l'estadística i probabilitat per l'Aprenentatge automàtic
+
+Objectiu específic:  
+
+    Comprendre les seves aplicacions  
+    Calcular diferents estadístiques de dades  
+    Representar gràficament diferents estadístiques de les dades 
+
+
+Si algun recurs de towardsdatascience o medium demana registre, proveu d’obrir-lo en finestra d’incògnit.
+
+1- Probabilitat i Estadística
+
+En aquest sprint t'oferim les bases de la probabilitat i l'estadística. És un sprint molt dens, amb molta informació, per això et recomanem que et focalitzis en els següents conceptes que treballarem a la tasca: moda, mediana, desviació estàndard, mitjana aritmètica, correlació, mitjana geomètrica i mitjana harmònica.
+
+1. Aspectes bàsics de probabilitat i estadística
+
+Introducció probabilitat i estadística: seccions de probability and statistics a normal distribution
+
+    A partir de la Secció  "Probability and Statistics"; fins "The Normal Distribution"
+
+Random variables
+
+Sampling distributions
+
+Inferència de dues mostres per a la diferència entre grups
+
+Comprensió de les aplicacions de la probabilitat en l’aprenentatge automàtic
+
+Probabilitat d’aprenentatge automàtic
+
+2. Material complementari probabilitat i estadística
+
+Material complementari: probability
+
+Material complementari: counting, permutations, and combinations
